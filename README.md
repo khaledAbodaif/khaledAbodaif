@@ -45,6 +45,12 @@ I'm a passionate Software Engineer from Egypt with 5+ years of experience in ful
 - 🧹 Clean code practices and refactoring techniques
 - 🚀 Performance optimization for large-scale applications
 - 📦 Creating reusable packages for the Laravel community
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/khaled-abodaif)
+- [Email](mailto:khaled.abodaif@yahoo.com)
+
 <br/>
 <br/>
 
