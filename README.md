@@ -9,29 +9,42 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=khaledAbodaif&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
-<h2> Hi, I'm Khaled Abodaif ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# Hello, I'm Khaled Abodaif! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt .
+I'm a passionate Software Engineer from Egypt with 5+ years of experience in full-stack web development. I specialize in creating scalable and efficient solutions using modern technologies.
 
-- 🔭 I’m currently working on:
-  - _Implementing New Packages For Laravel Comunity [Voucher](https://github.com/khaledAbodaif/laravel-voucher-package) [State](https://github.com/khaledAbodaif/Laravel-state-packaage)_
-  - _Implementing Dashboard Generator Using [VILT STACK](https://github.com/queents/vilt)_
-  - _Establishing My Own Product_
-- 🌱 I’m currently learning:
-  - _software Architecture, Algorithms, Solid, Refactoring_
-- 🤔 I’m looking to help others with: 
-  - _Architecture Solutions ,Clean Code_
+## 🚀 What I'm Up To
 
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/khaled-abo-daif)
-  - [E-mail](mailto:khaled.abodaif@yahoo.com)
-- ⚡  I’m interested in: @JAVA
+- 🔧 Leading development teams and architecting solutions at Nuwas
+- 🌟 Contributing to open-source projects like TomatoPHP
+- 🧠 Exploring AI prompting with OpenAI Assistant technology
+- 📊 Implementing performance monitoring 
 
+## 💻 Tech Stack
+
+- Backend: PHP (Laravel), Node.js, C#
+- Frontend: Vue.js, Angular, React, TypeScript
+- Databases: MySQL, MongoDB
+- DevOps: CI/CD, Linux, Alibaba Cloud, Contabo, Bitbucket
+- Architecture: MVC, Onion Architecture, Microservices
+
+## 🌱 Currently Learning
+
+- Advanced software architecture patterns
+- Deepening knowledge in AI and machine learning integration
+- Exploring new DevOps tools and practices
+
+## 🤝 Open for Collaboration
+
+- 🏗️ Architecture solutions and system design
+- 🧹 Clean code practices and refactoring techniques
+- 🚀 Performance optimization for large-scale applications
+- 📦 Creating reusable packages for the Laravel community
 <br/>
 <br/>
 
@@ -52,6 +65,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <div>
   <h4>Front-End </h4>
 <div>
+            
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
@@ -63,7 +78,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <div>
     <h4>Back-End </h4>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"  width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
